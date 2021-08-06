@@ -1,12 +1,4 @@
-# CSE2WDC/CSE5WDC Assignment: Neverwrote
-
-This repository contains a template which should form the foundation of your
-assignment.
-
-## Getting started
-
-1. Create a private fork of this repository on Bitbucket
-2. Clone your fork of the repository and start coding
+# Notebook App
 
 ## Command reference
 
@@ -36,8 +28,7 @@ $ docker-compose run --rm frontend gulp
 
 ## Project structure
 
-The Neverwrote project has a very similar structure to the blog application from
-the labs. You will only need to work in the `api/` directory (for the backend
+You will only need to work in the `api/` directory (for the backend
 API) and the `frontend/` directory (for the frontend interface). The NGINX
 server is already correctly configured, as are all of the Docker-related things,
 so there is no need to modify those.
